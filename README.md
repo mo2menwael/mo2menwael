@@ -10,7 +10,7 @@
 
 - 🏢 I'm an Electronics and Electrical Communication Engineering student at Cairo University.
 - ⚡ As an ECE student, I'm constantly learning and exploring new technologies to improve my skills.
-- 👨‍💻 All of my projects are available at my Linkedin profile.
+- 👨‍💻 All of my projects are available at my Linkedin profile or in projects section in github.
 
 <img width="300" align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm5semNvamVlejY1c3N3eWYzbjJjNXM3OHVyNTNrNXFsN3Yzd3FxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
