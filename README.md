@@ -8,7 +8,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=003140&center=true&vCenter=true&width=440&height=45&separator=%3C&lines=while+(!(succeed+%3D+try()));" alt="Typing SVG" /></a>
 </p> 
 
-- 🏢 I'm an Electronics and Electrical Communication Engineering student at Cairo University.
+- 🏢 I'm an Electronics and Electrical Communications Engineering student at Cairo University.
 - ⚡ As an ECE student, I'm constantly learning and exploring new technologies to improve my skills.
 - 👨‍💻 All of my projects are available at my Linkedin profile or in projects section in github.
 
@@ -18,9 +18,10 @@
 ### ✉️ &nbsp;Connect with Me :
 <a href="https://www.linkedin.com/in/mo2menwael/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://t.me/Mo2menWael" target="_blank"><img src="https://img.shields.io/badge/-telegram-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:moamenwael7@gmail.com)](mailto:moamenwael7@gmail.com)
 ### 🛠 &nbsp;Skills :
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)&nbsp;
-![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
-![Arduino IDE](https://img.shields.io/badge/-Arduino%20IDE%20-05122A?style=flat&logo=arduino)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat-square&logo=cplusplus)&nbsp;
+![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat-square&logo=python)&nbsp;
+![Arduino IDE](https://img.shields.io/badge/-Arduino%20IDE%20-05122A?style=flat-square&logo=arduino)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat-square&logo=github)&nbsp;
