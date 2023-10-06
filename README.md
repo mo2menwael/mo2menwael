@@ -25,3 +25,4 @@
 ![Arduino IDE](https://img.shields.io/badge/-Arduino%20IDE%20-05122A?style=flat-square&logo=arduino)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat-square&logo=github)&nbsp;
+![MATLAB](https://img.shields.io/badge/-MATLAB-05122A?style=flat-square&logo=matlab)&nbsp;
