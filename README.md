@@ -21,6 +21,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:moamenwael7@gmail.com)](mailto:moamenwael7@gmail.com)
 ### 🛠 &nbsp;Skills :
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat-square&logo=cplusplus)&nbsp;
+![C](https://img.shields.io/badge/-C++-05122A?style=flat-square&logo=c)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat-square&logo=python)&nbsp;
 ![Arduino IDE](https://img.shields.io/badge/-Arduino%20IDE%20-05122A?style=flat-square&logo=arduino)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=git)&nbsp;
